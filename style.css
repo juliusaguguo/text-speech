@@ -1,0 +1,32 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background: #1d1d23;
+}
+
+#input {
+    all: unset;
+    border: 1px solid #ccc;
+    background-color: black;
+    padding: 10px;
+    color: aliceblue;
+    caret-color: white;
+    caret-shape: block;
+    border-radius: 5px;
+    
+}
+
+button {
+    all: unset;
+    padding: 10px;
+    margin: 7px;
+    background-color: #111;
+    border-radius: 6px;
+    color: #ccc;
+    border: 1px double;
+    
+}
+
+ 
